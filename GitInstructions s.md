@@ -18,6 +18,8 @@
 
 * *git diff* – увидеть разницу между текущим файлом и закоммиченным файлом
 
+* *git checkout "название ветки"* - переход к другой ветке
+
 >Это блок-цитата. Обычно он отображается с отступом и другим цветом фона.
 
  For more information, see the https://learn.microsoft.com/ru-ru/contribute/how-to-write-links
