@@ -20,6 +20,8 @@
 
 * *git checkout "название ветки"* - переход к другой ветке
 
+* *git log --graph* - показывает список коммитов в виде дерева
+
 >Это блок-цитата. Обычно он отображается с отступом и другим цветом фона.
 
  For more information, see the https://learn.microsoft.com/ru-ru/contribute/how-to-write-links
