@@ -10,6 +10,8 @@
 
 * *git commit -m "mеssage"* - создание коммита.
 
+* *git commit -a -m "message" * - добавить файл к следующему коммиту и создание коммита
+
 * *git log* - вывод на экран истории всех коммитов с их хеш-кодами
 
 * *git checkout* - переход от одного коммита к другому
@@ -19,3 +21,4 @@
 >Это блок-цитата. Обычно он отображается с отступом и другим цветом фона.
 
  For more information, see the https://learn.microsoft.com/ru-ru/contribute/how-to-write-links
+ 
