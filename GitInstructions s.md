@@ -28,6 +28,8 @@
 
 * *git log --graph* - создает основанную на тексте диаграмму коммитов в левой части области сообщений коммитов
 
+* *git log --decorate* - добавляет отображаемые имена веток или теги коммитов.
+
 >Это блок-цитата. Обычно он отображается с отступом и другим цветом фона.
 
  For more information, see the https://learn.microsoft.com/ru-ru/contribute/how-to-write-links
